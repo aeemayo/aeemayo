@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Ayomide!<br><br>- 🔭 I’m a backend Developer<br>-  ⚡ In my free time I read software documentations/trade<br>- 😶‍🌫️ cloud security enthusiast</p>
+<p align="left">I'm Ayomide!<br><br>- 🔭 I’m a backend Developer<br>-  ⚡ In my free time I read software documentations/trade<br>- 😶‍🌫️ smartcontract security enthusiast</p>
 
 ###
 
